@@ -49,7 +49,7 @@ def check_for_essid(essid, lst):
 # Basic user 
 print("\n****************************************************************")
 print("\n* 𝙒𝙄𝙁𝙄 𝙆𝙄𝙇𝙇 𝘽𝙔 𝙄𝙇𝙃𝘼𝙈 𝙑1 2026                                                ")
-print("\n* WhatsApp: 081223440399                           ")
+print("\n* Instagram: muhammdilhamrizki_99                           ")
 print("\n* 🛜 🚫                     ")
 print("\n****************************************************************")
 
