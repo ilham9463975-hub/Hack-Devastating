@@ -1,2 +1,7 @@
 # Hack-Devastating
-alat pemutus jaringan wifi 2,4GHz
+ادوات مهمه للاختراق
+
+
+pip install -r iniup.txt
+
+sudo python cash-wifi.py
